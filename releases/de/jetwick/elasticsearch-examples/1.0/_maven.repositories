@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Feb 07 00:38:57 CET 2011
+elasticsearch-examples-1.0.pom>=
+elasticsearch-examples-1.0.war>=
