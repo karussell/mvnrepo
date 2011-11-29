@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>de.jetsli</groupId>
+  <artifactId>twittertool</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20111129212936</lastUpdated>
+  </versioning>
+</metadata>
