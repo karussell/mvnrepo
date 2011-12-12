@@ -2,11 +2,11 @@
 <metadata>
   <groupId>de.jetwick</groupId>
   <artifactId>snacktory</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <versioning>
-    <snapshot>
-      <buildNumber>2</buildNumber>
-    </snapshot>
-    <lastUpdated>20111212080407</lastUpdated>
+    <versions>
+      <version>1.0</version>
+    </versions>
+    <lastUpdated>20111212080954</lastUpdated>
   </versioning>
 </metadata>
