@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.apache.lucene</groupId>
+  <artifactId>lucene-queries</artifactId>
+  <version>4.0-SNAPSHOT</version>
+  <versioning>
+    <versions>
+      <version>4.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20111219112927</lastUpdated>
+  </versioning>
+</metadata>
