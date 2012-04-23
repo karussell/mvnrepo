@@ -4,7 +4,7 @@ https://github.com/karussell/snacktory
 <dependency>
      <groupId>de.jetwick</groupId>
      <artifactId>snacktory</artifactId>
-     <version>1.0-SNAPSHOT</version>
+     <version>1.1-SNAPSHOT</version>
 </dependency>
 
 ( and the example war at https://github.com/karussell/ElasticSearchExample)
