@@ -1,16 +1,30 @@
-My micro maven repo for the projects at
+### My micro maven repo
 
-https://github.com/karussell/snacktory
+## A Java readability clone (extracts important text and image) at https://github.com/karussell/snacktory
 <dependency>
      <groupId>de.jetwick</groupId>
      <artifactId>snacktory</artifactId>
      <version>1.1-SNAPSHOT</version>
 </dependency>
 
-( and the example war at https://github.com/karussell/ElasticSearchExample)
+## An example war at https://github.com/karussell/ElasticSearchExample
+
+## The plotter at https://github.com/karussell/plotter
+<dependency>
+     <groupId>de.genvlin</groupId>
+     <artifactId>plotter</artifactId>
+     <version>1.0-SNAPSHOT</version>
+</dependency>
+
+## A twitter utility
+<dependency>
+     <groupId>de.jetsli</groupId>
+     <artifactId>twittertool</artifactId>
+     <version>1.0-SNAPSHOT</version>
+</dependency>
 
 
-to include the repository use
+## USAGE
 
 <repository>
   <id>karussell_snapshots</id>
@@ -22,8 +36,8 @@ to include the repository use
   <url>https://github.com/karussell/mvnrepo/raw/master/releases/</url>                   
 </repository> 
 
-If you want to do the same read:
+## If you want to do the same read:
 http://cemerick.com/2010/08/24/hosting-maven-repos-on-github/
 
-hint:
+Hint add a distributionManagement tag in the pom.xml and do
 mvn -DaltDeploymentRepository=snapshot-repo::default::file:/path/to/mvnrepo/snapshots/ clean deploy -Dmaven.test.skip=true
